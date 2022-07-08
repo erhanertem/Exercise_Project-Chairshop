@@ -108,8 +108,15 @@ img {
 
 /* FEATURES */
 .features-icon {
+	stroke: #087f5b;
+	width: 32px;
+	margin-bottom: 16px;
 }
-
+.chair-icon {
+	stroke: #087f5b;
+	/* fill: #087f5b; */
+	width: 24px;
+}
 .features-title {
 	margin-bottom: 16px;
 	font-size: 20px;
