@@ -24,12 +24,12 @@ LIGHT GREY: #495057
 body {
 	font-family: "Inter", sans-serif;
 	color: #343a40;
-	border-bottom: 8px solid #087f5b;
 }
 
 .container {
 	width: 960px;
 	margin: 0 auto;
+	border-bottom: 8px solid #087f5b;
 }
 
 header,
