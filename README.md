@@ -4,10 +4,14 @@
 
 ## Udemy Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
 
-### **Objective:** Create an imaginary furniture designer landing page
+### **Objective:** Create a fictional furniture designer shop landing page
 
 - Implement GRID and FLEXBOX principles of CSS
 - Page UI design, coloring and misc workflows, tips and tricks (lecture 5.67 - onward)
+
+&emsp;
+
+#### Link to Project &rarr; [Chair Shop Project](https://chairshop-erhan-ertem.netlify.app/)
 
 ---
 
