@@ -1,13 +1,13 @@
-# Udemy Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
+### 👋 **I am Erhan ERTEM**
 
-## **Objective:** Create an imaginary furniture designer landing page
+&emsp;
+
+## Udemy Build Responsive Real-World Websites with HTML and CSS by Jonas Schmedtmann
+
+### **Objective:** Create an imaginary furniture designer landing page
 
 - Implement GRID and FLEXBOX principles of CSS
 - Page UI design, coloring and misc workflows, tips and tricks (lecture 5.67 - onward)
-
----
-
-### **Erhan ERTEM**
 
 ---
 
